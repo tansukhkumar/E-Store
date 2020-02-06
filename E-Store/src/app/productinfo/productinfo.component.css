@@ -1,0 +1,14 @@
+.registration-text{
+    font-family: 'Share Tech Mono', monospace;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    font-size: 28px;
+    font-weight: lighterss;
+}
+
+.form-control{
+    font-family: 'Share Tech Mono',monospace;
+}
